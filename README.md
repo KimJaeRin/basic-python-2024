@@ -23,8 +23,8 @@
   ```python
   # 이 부분은 주석입니다.
   var_01 = 10 # 정수, 실수, 불, 문자열 모두 가능
-  print(var_01)
-  print(type(var_01))
+  print(var_01)  #10
+  print(type(var_01))  # class of int
 
   print(5 + 4/ 2) #7.0
   print(5 == 4) #False
