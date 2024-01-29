@@ -5,4 +5,4 @@
 print('Hello, World!')
 
  # > python test01_console로 콘솔 실행
- # > VS Code에서 Ctrl + F5 실행
+ # > VS Code에서 Ctrl + F5 실행  ㅕ
