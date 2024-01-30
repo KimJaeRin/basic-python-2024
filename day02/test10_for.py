@@ -19,3 +19,5 @@ for in_list in list_a:
     for item in in_list:
         print(item)
 
+            
+
