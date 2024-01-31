@@ -20,7 +20,8 @@ def divide(x, y) -> float:
 
 def say_hello() -> None:
     print('Hello')
-    return None
+    #return None 은 생략 (None을 원래 리턴)
+
 say_hello()
 print('더하기 ->')
 a,b = map(int, input('두 정수 입력 >').split(' '))
