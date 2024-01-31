@@ -40,6 +40,18 @@
     - 리스트, 튜플, 딕셔너리
   - 출력 Format
   - 구구단 + 디버깅
+  ```python
+  print('구구단 시작')
+  for x in range(2,10):
+    print(f'{x}단------->')
+    for y in range(1,10):
+        print(f'{x} x {y} = {x*y:2d}',end = ' , ')  #2d = 오른 쪽 정렬 , end = 엔터대신 공백으로 변경
+    print() #안 쪽 For문이 끝나면 마지막엔터를 하나 추가
+    # debugging = F9(중단점 토글), F5(디버깅 시작), F10(한줄씩 실행), F11(함수안으로 진입)
+    #shift + F5 = 디버깅 종료
+    # x * y = x*y
+
+  ```
 
 ## 3일차
 - 파이썬 기초
