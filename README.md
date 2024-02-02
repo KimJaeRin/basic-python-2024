@@ -105,7 +105,9 @@
       - 사용방법 (test31_jupyternb.ipynb 참조)
     - folium 기본사용
       - https://python-visualization.github.io/folium/latest/index.html
-    -![folium사용법](https://raw.githubusercontent.com/KimJaeRin/basic-python-2024/main/images/python_001.png)
+    - ![folium사용법](https://raw.githubusercontent.com/KimJaeRin/basic-python-2024/main/images/python_001.png)
+
+    - 아이콘 사이트 : https://getbootstrap.com/docs/3.3/components/
      
 
 
@@ -115,7 +117,10 @@
   ## 5일차
 
   - 파이썬 응용
-    주피터 노트북 활용 - 구글 코랩(colab)
+    - 주피터 노트북 활용 - 구글 코랩(colab)
+    - folium 계속
+    - json(JavaScript Object Notation ) 입출력 (io)
+    
 
 
 
