@@ -120,6 +120,8 @@
     - 주피터 노트북 활용 - 구글 코랩(colab)
     - folium 계속
     - json(JavaScript Object Notation ) 입출력 (io)
+    - 응용예제 연습
+      - IP주소 확인
     
 
 
