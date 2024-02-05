@@ -122,7 +122,13 @@
     - json(JavaScript Object Notation ) 입출력 (io)
     - 응용예제 연습
       - IP주소 확인
-    
+      - QR Code 만들기
+
+  ## 6일차
+    - 파이썬 응용
+        - Window App(PyQt) 만들기
+  
+  - 가상환경
 
 
 
