@@ -125,12 +125,21 @@
       - QR Code 만들기
 
   ## 6일차
+  - Python 라이브러리 경로 : C:\DEV\Langs\Python311\Lib\site-packages
     - 파이썬 응용
         - Window App(PyQt) 만들기
+
+        
+      ```shell
+      > pip install PyQt5
+      > pip install PyQt5Designer
+      ```
+
+      - PyQt 기본실행
   
   - 가상환경
 
-
+dd
 
 
 
