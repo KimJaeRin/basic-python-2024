@@ -141,7 +141,7 @@
           - GIL,병렬 프로세싱 더 학습할 것
       
       
-      ![쓰레드예제](https://raw.githubusercontent.com/KimJaeRin/basic-python-2024/main/images/python_003.png)
+      ![쓰레드예제](https://raw.githubusercontent.com/KimJaeRin/basic-python-2024/main/images/python_003.햘)
 
 
         
