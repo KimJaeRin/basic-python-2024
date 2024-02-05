@@ -136,34 +136,24 @@
       ```
 
       - PyQt 기본실행
+      - QtDesigner 사용법
+      - 쓰레드 학습 : UI쓰레드와 Background 쓰레드 분리
+          - GIL,병렬 프로세싱 더 학습할 것
+      
+      
+      ![쓰레드예제](https://raw.githubusercontent.com/KimJaeRin/basic-python-2024/main/images/python_003.png)
+
+
+        
   
-  - 가상환경
+  
+  
+  
 
-dd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  - 가상환경
+  
+  
+  
+    - 가상환경
   - 객체지향(나중에...)
     - 오버로딩, 오버라이딩(재정의)
     - 상속, 다중상속
