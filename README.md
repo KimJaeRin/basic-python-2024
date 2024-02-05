@@ -164,9 +164,9 @@
             # ...    
       #쓰레드에서 시그널이 넘어오면 UI처리를 대신 해주는 부분 슬롯함수
       @pyqtSlot(int) #BackWorker 쓰레드에서 self, initSignal.emit() 동작해서 실행
-       def initPgbTask(self, maxVal):
-        self.pgbTask.setValue(0)
-        self.pgbTask.setRange(0, maxVal -1)      
+      def initPgbTask(self, maxVal):
+          self.pgbTask.setValue(0)
+          self.pgbTask.setRange(0, maxVal -1)      
     ```
         
   
