@@ -23,7 +23,9 @@ class qtwin_exam(QWidget):
         print('시작버튼 클릭')
         self.lblstatus.setText('상태: 동작시작')
         QMessageBox.about(self,'동작','***시스템이 시작되었습니다')    
-
+    
+    #QWidget에 있는 closeEvent를 그대로 쓰면 그냥 닫힘
+    #닫을지 말지를 한번 더 물어보는 형태로 다시 구현(재정의:Override)
     def btnStopClicked(self):
         print('종료버튼 클릭')
         self.lblstatus.setText('상태: 동작중지')
