@@ -180,4 +180,13 @@
       - 다른버전의 파이썬을 설치해야 사용 가능
     - PyQt5와 응용예제 연습(Set-ExecutionPolicy -ExecutionPolicy RemoteSigned,보안(파워쉘관리자모드))
       - 이미지 뷰어
+        - 이미지 에디터
+
+    
+     ![PyQt예제](https://raw.githubusercontent.com/KimJaeRin/basic-python-2024/main/images/python_004.png)
+
+## 8일차
+- 파이썬 응용
+   - PyQt5 응용예제 계속
+- 파이썬 기본 코딩 테스트
 
