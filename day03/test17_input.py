@@ -18,5 +18,5 @@ if temp_val.isnumeric() == True:   # 숫자입력이 아니면 튕겨냄
 # 곱하기
     result = temp_val*5
     print(f'결과 = {result}')
-else:
+else:4
     print('정수만 입력하세요.')
