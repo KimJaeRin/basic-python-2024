@@ -1,6 +1,4 @@
 
-
-
 def get_url(name):
     return f'www.{name}.com'
 

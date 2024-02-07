@@ -1,5 +1,3 @@
-from collections import Counter
-
 
 str =input('문자열을 영어로 입력하세요 : ')
 
